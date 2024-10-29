@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uyufuoda.github.io/sitemap_index.uyufuoda
